@@ -1,4 +1,3 @@
-
 // Final Project C code - Mohammad Hadi
 
 #include <stdint.h>
