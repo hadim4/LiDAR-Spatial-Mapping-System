@@ -1,4 +1,4 @@
-// Final Project C code - Mohammad Hadi
+// Final Project C code - Mohammad Hadin
 
 #include <stdint.h>
 #include "PLL.h"
