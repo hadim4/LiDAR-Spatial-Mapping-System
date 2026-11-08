@@ -17,8 +17,8 @@ Designed and implemented a **360° spatial scanning system** using an MSP432E401
 ### 3D Spatial Mapping Results
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6d1736dd-6cc9-4493-bd0d-3d3bb7451862" width="420" alt="Room spatial mapping">
-  <img src="https://github.com/user-attachments/assets/822c064d-c304-437e-9773-2f9a02cd20ed" width="420" alt="Hallway spatial mapping">
+  <img src="https://github.com/user-attachments/assets/6d1736dd-6cc9-4493-bd0d-3d3bb7451862" width="400" alt="Room spatial mapping">
+  <img src="https://github.com/user-attachments/assets/822c064d-c304-437e-9773-2f9a02cd20ed" width="400" alt="Hallway spatial mapping">
 </p>
 
 ### Hardware Setup
